@@ -1,0 +1,10 @@
+.mdl-cell {
+	background: #eee;
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.mdl-cell .content {
+    text-align: center;
+}
